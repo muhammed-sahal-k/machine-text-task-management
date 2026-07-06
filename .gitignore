@@ -22,3 +22,9 @@ dist-ssr
 *.njsproj
 *.sln
 *.sw?
+*.env
+node_modulesgit add .
+backend/node_modules
+frontend/node_modules
+backend/.env
+frontend/.env
