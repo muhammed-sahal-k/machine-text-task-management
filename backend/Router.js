@@ -1,19 +1,3 @@
-// import { Router } from "express";
-// import { REGISTER, LOGIN, PROFILE } from "./Requesthandeler.js";
-// import { authMiddleware } from "./Middleware/AuthMiddleware.js";
-
-// const router = Router();
-
-// router.post("/register", REGISTER);
-// router.post("/login", LOGIN);
-// router.get("/profile", authMiddleware, PROFILE);
-
-// export default router;
-
-
-
-
-
 
 
 
